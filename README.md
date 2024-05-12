@@ -13,7 +13,7 @@
 [![Keriii's GitHub | Stats](https://stats.quine.sh/Keriii/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Keriii)  
 <!--[![Keriii's GitHub | Languages Over Time](https://stats.quine.sh/Keriii/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Keriii)-->
 
-
+![](https://komarev.com/ghpvc/?username=keriii)
 <h3> My top languages </h3>
 
 | Rank | Languages |
